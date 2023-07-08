@@ -1,4 +1,4 @@
-class Sortanarrayof0's,1'sand2's {
+class SortColors {
     public void sortColors(int[] nums) {
         HashMap <Integer,Integer> map=new HashMap<>();
         for(int num:nums) {
