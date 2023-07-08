@@ -1,4 +1,4 @@
-class Set Matrix Zeroes {
+class SetMatrixZeroes {
     public void setZeroes(int[][] matrix) {
         int col0=1,rows=matrix.length,cols=matrix[0].length;
         for(int i=0;i<rows;i++) {
