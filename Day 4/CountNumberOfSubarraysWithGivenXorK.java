@@ -1,5 +1,5 @@
 import java.util.HashMap;
-public class CountnumberofsubarrayswithgivenxorK {
+public class CountNumberOfSubarraysWithGivenXorK {
     public static int subarraysWithSumK(int []a, int b) {
         // Write your code here
         int xr =0;
